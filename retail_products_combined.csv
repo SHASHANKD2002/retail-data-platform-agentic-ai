@@ -1,0 +1,201 @@
+product_name,brand,category,price,source
+Essence Mascara Lash Princess,Essence,beauty,9.99,dummyjson
+Eyeshadow Palette with Mirror,Glamour Beauty,beauty,19.99,dummyjson
+Powder Canister,Velvet Touch,beauty,14.99,dummyjson
+Red Lipstick,Chic Cosmetics,beauty,12.99,dummyjson
+Red Nail Polish,Nail Couture,beauty,8.99,dummyjson
+Calvin Klein CK One,Calvin Klein,fragrances,49.99,dummyjson
+Chanel Coco Noir Eau De,Chanel,fragrances,129.99,dummyjson
+Dior J'adore,Dior,fragrances,89.99,dummyjson
+Dolce Shine Eau de,Dolce & Gabbana,fragrances,69.99,dummyjson
+Gucci Bloom Eau de,Gucci,fragrances,79.99,dummyjson
+Annibale Colombo Bed,Annibale Colombo,furniture,1899.99,dummyjson
+Annibale Colombo Sofa,Annibale Colombo,furniture,2499.99,dummyjson
+Bedside Table African Cherry,Furniture Co.,furniture,299.99,dummyjson
+Knoll Saarinen Executive Conference Chair,Knoll,furniture,499.99,dummyjson
+Wooden Bathroom Sink With Mirror,Bath Trends,furniture,799.99,dummyjson
+Apple,Unknown,groceries,1.99,dummyjson
+Beef Steak,Unknown,groceries,12.99,dummyjson
+Cat Food,Unknown,groceries,8.99,dummyjson
+Chicken Meat,Unknown,groceries,9.99,dummyjson
+Cooking Oil,Unknown,groceries,4.99,dummyjson
+Cucumber,Unknown,groceries,1.49,dummyjson
+Dog Food,Unknown,groceries,10.99,dummyjson
+Eggs,Unknown,groceries,2.99,dummyjson
+Fish Steak,Unknown,groceries,14.99,dummyjson
+Green Bell Pepper,Unknown,groceries,1.29,dummyjson
+Green Chili Pepper,Unknown,groceries,0.99,dummyjson
+Honey Jar,Unknown,groceries,6.99,dummyjson
+Ice Cream,Unknown,groceries,5.49,dummyjson
+Juice,Unknown,groceries,3.99,dummyjson
+Kiwi,Unknown,groceries,2.49,dummyjson
+Lemon,Unknown,groceries,0.79,dummyjson
+Milk,Unknown,groceries,3.49,dummyjson
+Mulberry,Unknown,groceries,4.99,dummyjson
+Nescafe Coffee,Unknown,groceries,7.99,dummyjson
+Potatoes,Unknown,groceries,2.29,dummyjson
+Protein Powder,Unknown,groceries,19.99,dummyjson
+Red Onions,Unknown,groceries,1.99,dummyjson
+Rice,Unknown,groceries,5.99,dummyjson
+Soft Drinks,Unknown,groceries,1.99,dummyjson
+Strawberry,Unknown,groceries,3.99,dummyjson
+Tissue Paper Box,Unknown,groceries,2.49,dummyjson
+Water,Unknown,groceries,0.99,dummyjson
+Decoration Swing,Unknown,home-decoration,59.99,dummyjson
+Family Tree Photo Frame,Unknown,home-decoration,29.99,dummyjson
+House Showpiece Plant,Unknown,home-decoration,39.99,dummyjson
+Plant Pot,Unknown,home-decoration,14.99,dummyjson
+Table Lamp,Unknown,home-decoration,49.99,dummyjson
+Bamboo Spatula,Unknown,kitchen-accessories,7.99,dummyjson
+Black Aluminium Cup,Unknown,kitchen-accessories,5.99,dummyjson
+Black Whisk,Unknown,kitchen-accessories,9.99,dummyjson
+Boxed Blender,Unknown,kitchen-accessories,39.99,dummyjson
+Carbon Steel Wok,Unknown,kitchen-accessories,29.99,dummyjson
+Chopping Board,Unknown,kitchen-accessories,12.99,dummyjson
+Citrus Squeezer Yellow,Unknown,kitchen-accessories,8.99,dummyjson
+Egg Slicer,Unknown,kitchen-accessories,6.99,dummyjson
+Electric Stove,Unknown,kitchen-accessories,49.99,dummyjson
+Fine Mesh Strainer,Unknown,kitchen-accessories,9.99,dummyjson
+Fork,Unknown,kitchen-accessories,3.99,dummyjson
+Glass,Unknown,kitchen-accessories,4.99,dummyjson
+Grater Black,Unknown,kitchen-accessories,10.99,dummyjson
+Hand Blender,Unknown,kitchen-accessories,34.99,dummyjson
+Ice Cube Tray,Unknown,kitchen-accessories,5.99,dummyjson
+Kitchen Sieve,Unknown,kitchen-accessories,7.99,dummyjson
+Knife,Unknown,kitchen-accessories,14.99,dummyjson
+Lunch Box,Unknown,kitchen-accessories,12.99,dummyjson
+Microwave Oven,Unknown,kitchen-accessories,89.99,dummyjson
+Mug Tree Stand,Unknown,kitchen-accessories,15.99,dummyjson
+Pan,Unknown,kitchen-accessories,24.99,dummyjson
+Plate,Unknown,kitchen-accessories,3.99,dummyjson
+Red Tongs,Unknown,kitchen-accessories,6.99,dummyjson
+Silver Pot With Glass Cap,Unknown,kitchen-accessories,39.99,dummyjson
+Slotted Turner,Unknown,kitchen-accessories,8.99,dummyjson
+Spice Rack,Unknown,kitchen-accessories,19.99,dummyjson
+Spoon,Unknown,kitchen-accessories,4.99,dummyjson
+Tray,Unknown,kitchen-accessories,16.99,dummyjson
+Wooden Rolling Pin,Unknown,kitchen-accessories,11.99,dummyjson
+Yellow Peeler,Unknown,kitchen-accessories,5.99,dummyjson
+Apple MacBook Pro 14 Inch Space Grey,Apple,laptops,1999.99,dummyjson
+Asus Zenbook Pro Dual Screen Laptop,Asus,laptops,1799.99,dummyjson
+Huawei Matebook X Pro,Huawei,laptops,1399.99,dummyjson
+Lenovo Yoga 920,Lenovo,laptops,1099.99,dummyjson
+New DELL XPS 13 9300 Laptop,Dell,laptops,1499.99,dummyjson
+Blue & Black Check Shirt,Fashion Trends,mens-shirts,29.99,dummyjson
+Gigabyte Aorus Men Tshirt,Gigabyte,mens-shirts,24.99,dummyjson
+Man Plaid Shirt,Classic Wear,mens-shirts,34.99,dummyjson
+Man Short Sleeve Shirt,Casual Comfort,mens-shirts,19.99,dummyjson
+Men Check Shirt,Urban Chic,mens-shirts,27.99,dummyjson
+Nike Air Jordan 1 Red And Black,Nike,mens-shoes,149.99,dummyjson
+Nike Baseball Cleats,Nike,mens-shoes,79.99,dummyjson
+Puma Future Rider Trainers,Puma,mens-shoes,89.99,dummyjson
+Sports Sneakers Off White & Red,Off White,mens-shoes,119.99,dummyjson
+Sports Sneakers Off White Red,Off White,mens-shoes,109.99,dummyjson
+Brown Leather Belt Watch,Fashion Timepieces,mens-watches,89.99,dummyjson
+Longines Master Collection,Longines,mens-watches,1499.99,dummyjson
+Rolex Cellini Date Black Dial,Rolex,mens-watches,8999.99,dummyjson
+Rolex Cellini Moonphase,Rolex,mens-watches,12999.99,dummyjson
+Rolex Datejust,Rolex,mens-watches,10999.99,dummyjson
+Rolex Submariner Watch,Rolex,mens-watches,13999.99,dummyjson
+Amazon Echo Plus,Amazon,mobile-accessories,99.99,dummyjson
+Apple Airpods,Apple,mobile-accessories,129.99,dummyjson
+Fromage Blanc Nature,Milky Food Professional,"Dairies,Fermented foods,Fermented milk products,Cheeses,Desserts,Dairy desserts,Fermented dairy desserts,Fromages blancs - petit suisses and skyr,Plain fermented dairy desserts,fr:Fromages blancs,fr:Fromages blancs natures",,openfoodfacts
+Sidi Ali,سيدي علي,"Beverages and beverages preparations,Beverages,Waters,Spring waters,Mineral waters,Unsweetened beverages,Natural mineral waters",,openfoodfacts
+Perly,Jaouda,"Produits laitiers,Produits fermentés,Produits laitiers fermentés,Snacks,Desserts,Desserts lactés,Desserts lactés fermentés,Desserts lactés fermentés nature,Desserts lactés fermentés nature à la crème",,openfoodfacts
+Eau minérale naturelle,sidi ali,"Bevande e preparati per bevande,Bevande,Acque,Acque di sorgente,Acque minerali,Bevande senza zucchero,Acque minerali naturali",,openfoodfacts
+Sidi Ali,Sidi Ali,"Beverages and beverages preparations,Beverages,Waters,Spring waters,Mineral waters,Natural mineral waters",,openfoodfacts
+Lait,Jaouda,"Dairies,Meals,Milks (liquid and powder),Milks,Semi-skimmed milks",,openfoodfacts
+Jben,Jaouda,"en:Dairies, en:Fermented foods, en:Fermented milk products, en:Spreads, en:Cheeses, en:Salted spreads, en:Cheese spreads, en:Fromage frais nature à 21%de matière grasse",,openfoodfacts
+Eau De Source,Cristaline,"Boissons et préparations de boissons,Boissons,Eaux,Eaux de sources,Boissons sans sucre ajouté",,openfoodfacts
+Prince Goût Chocolat,LU,"Snacks,Breakfasts,Sweet snacks,Biscuits and cakes,Biscuits and crackers,Sandwich biscuits",,openfoodfacts
+uht jaouda 1L,Jaouda,"Dairies,Milks,Homogenized milks,UHT Milks,Whole milks,Cow milks,Whole milk UHT",,openfoodfacts
+Ain Saïss,Danone,"Boissons,Eaux,Eaux de sources,Eaux minérales,Boissons sans alcool,Boissons sans sucre ajouté",,openfoodfacts
+اكوافينا,AQUAFINA,"Boissons et préparations de boissons,Boissons,Eaux,Eaux de sources,Eaux minérales,Eaux de table",,openfoodfacts
+,Jaouda,"Produits laitiers,Produits fermentés,Produits laitiers fermentés,Desserts,Desserts lactés,Desserts lactés fermentés,Fromages blancs - petit suisses et skyr,Yaourts,Desserts lactés fermentés nature,Fromages blancs,Fromages blancs natures",,openfoodfacts
+6111035000027,Sidi Ali,Eaux minérales naturelles,,openfoodfacts
+Pain De Mie Bio,"La Boulangère,La Boulangère Bio","Aliments et boissons à base de végétaux,Aliments d'origine végétale,Céréales et pommes de terre,Céréales et dérivés,Pains,Pains de mie,en:Packaged breads,Pains complets,Pains de mie complet",,openfoodfacts
+Cream cheese,Original,"Dairies, Fermented foods, Fermented milk products, Cheeses, Cream cheeses",,openfoodfacts
+Eau minéral naturelle,Ain atlas,"Beverages,Waters,Spring waters,Mineral waters,Natural mineral waters",,openfoodfacts
+Edelbitterschokolade Mild 90%,"Lindt EXCELLENCE,Lindt","Botanas,Snacks dulces,Cacao y sus productos,Chocolates,Chocolates negros,en:Dark chocolate bar,Chocolates negros extra finos",,openfoodfacts
+Coca Cola Original Taste,Coca-Cola,"Beverages and beverages preparations,Beverages,Carbonated drinks,Sodas,Non-alcoholic beverages,Colas,Sweetened beverages",,openfoodfacts
+Unknown,Salim,"Dairies, Milks, Fresh milks, en:semi-skimmed-milks",,openfoodfacts
+Skyr nature 0%,Yoplait,"Produits laitiers,Produits fermentés,Produits laitiers fermentés,Fromages,Desserts,Desserts lactés,Desserts lactés fermentés,Fromages blancs - petit suisses et skyr,Desserts lactés fermentés nature,Skyrs,Skyrs nature",,openfoodfacts
+Yaourt nature,Jaouda,"Produits laitiers, Produits fermentés, Desserts, Produits laitiers fermentés, Desserts lactés, Desserts lactés fermentés, Yaourts, Yaourts natures",,openfoodfacts
+اكوافينا,pepsi,"Eaux,Eaux de table",,openfoodfacts
+Pain de mie grandes tranches Seigle & Graines 500g,la Boulangère,Pains de mie,,openfoodfacts
+cruesly mélange de noix,Quaker,"Plant-based foods and beverages,Plant-based foods,Breakfasts,Cereals and potatoes,Cereals and their products,Breakfast cereals,Mueslis,Cereals with nuts,Crunchy cereal clusters,Cereal clusters with nuts",,openfoodfacts
+Tartines craquantes au sarrasin imp,"Ekibio,Le pain des Fleurs","Plant-based foods and beverages,Plant-based foods,Snacks,Cereals and potatoes,Cereals and their products,Extruded crispbreads",,openfoodfacts
+Sésame,Gerblé,"Snacks,Sweet snacks,Biscuits and cakes,Biscuits and crackers,Biscuits",,openfoodfacts
+Excellence Noir Intense 70% Cacao,Lindt,"Produits fermentés,Snacks,Snacks sucrés,Cacao et dérivés,Chocolats,Chocolats noirs,Chocolats noirs en tablette,Chocolat noir en tablette extra dégustation à 70% de cacao minimum",,openfoodfacts
+Nutella,nutella,Other,,openfoodfacts
+Excellence Noir Puissant 85% Cacao,Lindt,"Snacks,Snacks sucrés,Cacao et dérivés,Chocolats,Chocolats noirs,Chocolats noirs en tablette",,openfoodfacts
+Pur beurre de cacahuète,Jardin Bio étic,"Aliments et boissons à base de végétaux,Aliments d'origine végétale,Légumineuses et dérivés,Petit-déjeuners,Produits à tartiner,Fruits à coques et dérivés,Pâtes à tartiner végétales,Produits à tartiner sucrés,Purées d'oléagineux,Beurres de légumineuses,Pâtes à tartiner,Beurres de fruits à coques,Beurres de cacahuètes",,openfoodfacts
+Cheddar,la Hollandaise,"Dairies, Fermented foods, Fermented milk products, Cheeses, Cow cheeses, Cheeses from the United Kingdom, Cheeses from England, Cheddar cheese, en:cheddar-slices",,openfoodfacts
+Nocciolata bio,Rigoni di Asiago,"Petit-déjeuners,Produits à tartiner,Produits à tartiner sucrés,Pâtes à tartiner,Pâtes à tartiner aux noisettes et au cacao",,openfoodfacts
+Nutella,Nutella,"Petit-déjeuners,Produits à tartiner,Produits à tartiner sucrés,Pâtes à tartiner,Pâtes à tartiner au chocolat,Pâtes à tartiner aux noisettes,Pâtes à tartiner aux noisettes et au cacao",,openfoodfacts
+Oulmes natural carbonated water,Les eaux minérales d'Oulmès S.A.,"Boissons,Boissons gazeuses,Eaux,Eaux de sources,Eaux minérales,Eaux gazeuses,Eaux minérales naturelles,Eaux minérales gazeuses",,openfoodfacts
+Tonik,tonik,"Snacks,Sweet snacks,Biscuits and cakes,Biscuits and crackers,Biscuits,Wafers,Chocolate biscuits,Stuffed wafers,Chocolate stuffed wafers",,openfoodfacts
+Fourrés Chocolat Noir,Bjorg,"Snacks, Sweet snacks, Biscuits and cakes, Biscuits and crackers, Biscuits, Chocolate biscuits, Filled biscuits, Dark chocolate biscuits, Sandwich biscuits",,openfoodfacts
+Pain de mie american sandwich complet sans sucres ajoutés 600g,Harrys,"Plant-based foods and beverages,Plant-based foods,Cereals and potatoes,Cereals and their products,Breads,Sliced breads,Wholemeal breads,Wholemeal sliced breads",,openfoodfacts
+Krisprolls complets sans sucres ajoutés,Krisprolls,"Aliments et boissons à base de végétaux,Aliments d'origine végétale,Céréales et pommes de terre,Céréales et dérivés,Pains,Biscottes,Pains grillés,Petits pains grillés,Petit-pain-suedois-sans-sucre,Petit-pain-suedois-sans-sucre,Petit pain grillé suédois sans sucre",,openfoodfacts
+Brioche Tranchée Bio 400g,La Boulangère,"Snacks,Breakfasts,Sweet snacks,Sweet pastries and pies,Viennoiseries,Brioches,Pure butter brioche,fr:Brioches tranchées",,openfoodfacts
+Cappy PULPY,Coca cola,"Beverages and beverages preparations,Plant-based foods and beverages,Beverages,Plant-based beverages,Fruit-based beverages,Juices and nectars,Orange-based-beverages",,openfoodfacts
+Geröstete Mandel Ohne Zucker,Alpro,"Boissons et préparations de boissons,Aliments et boissons à base de végétaux,Boissons,Aliments d'origine végétale,Substituts de produits laitiers,Substituts du lait,Fruits à coques et dérivés,Boissons à base de végétaux,Boissons végétales,Boissons végétales de fruits à coque,Laits d'amande",,openfoodfacts
+Alvalle Gazpacho l'original,Alvalle,"Aliments et boissons à base de végétaux, Aliments d'origine végétale, Aliments à base de fruits et de légumes, Plats préparés, Soupes, Soupes de légumes, Soupes froides, Gaspacho",,openfoodfacts
+levure pâtisserie,,Baking powder or raising agent,,openfoodfacts
+14 Maxi Tranches complet sans sucres ajoutés,Jacquet,"Aliments et boissons à base de végétaux,Aliments d'origine végétale,Céréales et pommes de terre,Céréales et dérivés,Pains,Pains de mie,Pains complets,Pains de mie complet",,openfoodfacts
+Goldium crémeux,Unknown,"Dairies, Fermented foods, Fermented milk products, Cheeses, Desserts, Dairy desserts, Fermented dairy desserts, en:cheese-spreads",,openfoodfacts
+Ciel 33cl,Ciel,"Boissons, Eaux, Eaux de sources, Eaux minérales, Eaux de table",,openfoodfacts
+Pain de mie Bio grandes tranches céréales & graines 500g,La boulangère bio,"Plant-based foods and beverages,Plant-based foods,Cereals and potatoes,Breads,Sliced breads,Multigrain sliced breads, Céréales et dérivés, en:Packaged breads",,openfoodfacts
+Tartine croustillante Authentique,Wasa,"Aliments et boissons à base de végétaux,Aliments d'origine végétale,Snacks,Petit-déjeuners,Céréales et pommes de terre,Céréales et dérivés,Pains,Pains croustillants,Biscotte,Pain croquant",,openfoodfacts
+Ain Atlas,Eau minérale naturelle des Montagnes d'Atlas,"Boissons,Eaux,Eaux de sources,Eaux minérales",,openfoodfacts
+FIBRES,Wasa,"Aliments et boissons à base de végétaux,Aliments d'origine végétale,Snacks,Céréales et pommes de terre,Snacks salés,Amuse-gueules,Céréales et dérivés,Chips et frites,Chips,Pains,Tartines craquantes extrudées,Pains croustillants,Pains croustillants complets,Tartines craquantes grillées",,openfoodfacts
+Nocciolata,Rigoni Di Asiago,"Petit-déjeuners,Produits à tartiner,Produits à tartiner sucrés,Pâtes à tartiner,Pâtes à tartiner aux noisettes,Pâtes à tartiner au chocolat,Pâtes à tartiner aux noisettes et au cacao",,openfoodfacts
+Le Lait demi écrémé,Jaouda,"Produits laitiers,Laits,Laits homogénéisés,Laits demi-écrémés,Laits UHT,Laits de vache",,openfoodfacts
+Menguy's Peanut 100%,menguy's,"Plant-based foods and beverages,Plant-based foods,Legumes and their products,Spreads,Nuts and their products,Plant-based spreads,Oilseed purees,Legume butters,Peanut butters",,openfoodfacts
+,aïn Saiss,"Boissons et préparations de boissons,Boissons,Eaux,Eaux de sources,Eaux minérales,Eaux minérales naturelles",,openfoodfacts
+Croustillant Chocolat,Bjorg,"Aliments et boissons à base de végétaux,Aliments d'origine végétale,Petit-déjeuners,Céréales et pommes de terre,Céréales et dérivés,Céréales pour petit-déjeuner,Céréales au chocolat,Céréales pour petit déjeuner riches en fibres,Pépites de céréales croustillantes,Pépites de céréales au chocolat",,openfoodfacts
+Pesto alla Genovese,Barilla,"Condiments,Sauces,Sauces pour pâtes,Sauces Pesto,en:Cooking Sauces,Pestos au basilic",,openfoodfacts
+Frommage fondu,REWE Beste Wahl,"Dairies, Fermented foods, Fermented milk products, Cheeses, fr:121314, fr:Aliments-laitiers, en:melted-cheese",,openfoodfacts
+Pomme Noisette,Gerblé,"Snacks,Sweet snacks,Biscuits and cakes,Biscuits and crackers,Biscuits,Dry biscuits",,openfoodfacts
+Margarine bio doux tartine & cuisson,Primevère,"Aliments et boissons à base de végétaux,Aliments d'origine végétale,Matières grasses,Produits à tartiner,Pâtes à tartiner végétales,Produits à tartiner salés,Matières grasses végétales,Matières grasses à tartiner,Margarines,Margarines allégées",,openfoodfacts
+Ciel,THE COCA-COLA COMPANY,"Boissons,Eaux,Boissons sans alcool",,openfoodfacts
+jaouda Cremy,jaouda,"Produits laitiers,Produits fermentés,Produits laitiers fermentés,Desserts,Desserts lactés,Desserts lactés fermentés,Yaourts",,openfoodfacts
+Figue & son,Gerblé,"Snacks,Sweet snacks,Biscuits and cakes,Biscuits and crackers,Biscuits,fr:Biscuits au son de blé,fr:Biscuits au son de blé et la figue",,openfoodfacts
+Tartine Doux,Primevère,"Aliments et boissons à base de végétaux, Aliments d'origine végétale, Matières grasses, Produits à tartiner, Pâtes à tartiner végétales, Produits à tartiner salés, Matières grasses à tartiner, Matières grasses végétales, Margarines, Margarines allégées",,openfoodfacts
+Assil vanille,Danone,"Dairies,Fermented foods,Fermented milk products,Desserts,Dairy desserts,Fermented dairy desserts,Yogurts",,openfoodfacts
+Ain Saiss Eau Minerale Naturelle,Danone,"Boissons et préparations de boissons,Boissons,Eaux,Eaux de sources,Eaux minérales",,openfoodfacts
+Jebli,"Centrale, Danone, Jebli","منتجات`الألبان, الأطعمة المخمرة, en:Fermented milk products, en:Spreads, جبن, en:Salted spreads, en:Cheese spreads, en:Cream cheeses",,openfoodfacts
+Pâte à tartiner noisettes et cacao,Bonne Maman,"Breakfasts,Spreads,Sweet spreads,fr:Pâtes à tartiner,Hazelnut spreads,Chocolate spreads,Cocoa and hazelnuts spreads",,openfoodfacts
+Coke ZERO,Coca-Cola,"Boissons et préparations de boissons,Boissons,Boissons gazeuses,Boissons édulcorées,Sodas,Boissons light,Boissons sans alcool,Sodas au cola,Sodas light,Sodas au cola light",,openfoodfacts
+Carré Frais,Elle & Vire,"Produits laitiers,Produits fermentés,Produits laitiers fermentés,Fromages,Fromages à la crème,en:fromages-à-la-crème,en:produits-fermentés,en:produits-laitiers-fermentés",,openfoodfacts
+tartine de campagne,la Boulangère,"Aliments et boissons à base de végétaux, Aliments d'origine végétale, Céréales et pommes de terre, Pains, Pains de campagne, Pain de mie de campagne",,openfoodfacts
+,lilia,"Plant-based foods and beverages,Dairies,Plant-based foods,Fats,Spreads,Plant-based spreads,Salted spreads,Vegetable fats,Spreadable fats,Animal fats,Dairy spreads,Margarines,Milkfat,Butters",,openfoodfacts
+ain saiss 50cl,عين سايس,"Boissons et préparations de boissons,Boissons,Eaux,Eaux de sources,Eaux minérales",,openfoodfacts
+كيفير,Jaouda,"Dairies, Fermented foods, Fermented milk products, Desserts, Dairy desserts, Fermented dairy desserts, Yogurts, en:kefir",,openfoodfacts
+Coca-Cola,Coca-Cola,"Bevande e preparati per bevande,Bevande,Bevande effervescente,Bibite gassate,Bibite gassate senza succo di frutta,Cola,Bibite gassate zuccherate senza succo di frutta,Bevande zuccherate",,openfoodfacts
+Jamila رايبي,Danone,"Beverages and beverages preparations,Beverages,Dairies,Fermented foods,Fermented milk products,Desserts,Dairy desserts,Dairy drinks,Fermented dairy desserts,Fermented drinks,Fermented dairy desserts with fruits,Fermented milk drinks,Yogurts,Fruit yogurts,Yogurt drinks",,openfoodfacts
+Galletas fibra zero azúcares,Gullón,"Snacks,Sweet snacks,Biscuits and cakes,Biscuits and crackers,Biscuits,Crackers(Breakfast)",,openfoodfacts
+Ain Atlas,Ain Atlas,"Beverages and beverages preparations,Beverages,Waters,Spring waters,Mineral waters",,openfoodfacts
+Paysan Breton - Le Fromage Fouetté Madame Loïk - Nature au Sel de Guérande,"Le Fromage Fouetté Madame Loïk, Paysan breton","Zuivelproducten,Gefermenteerde levensmiddelen,Gefermenteerde zuivelproducten,Kazen,Smeerbare producten,Hartige smeerbare producten,Smeerkazen,fr:Fromage fouetté",,openfoodfacts
+Sel de table iodé,Star,"Condiments, Salts, Table salts, Groceries, fr:sels-fins",,openfoodfacts
+,Gervais,"Dairies,Fermented foods,Fermented milk products,Cheeses,Desserts,Dairy desserts,Fermented dairy desserts,Fromages blancs - petit suisses and skyr,Plain fermented dairy desserts,Fresh cheeses,fr:Fromages blancs,fr:Fromages blancs natures",,openfoodfacts
+Pesto Rosso,Barilla,Red pestos,,openfoodfacts
+CRISTALINE Eau De Source 0.5L,Cristaline,"Beverages and beverages preparations,Beverages,Snacks,Waters,Spring waters",,openfoodfacts
+Beurre bio cacahuète,Ethiquable,"Aliments et boissons à base de végétaux,Aliments d'origine végétale,Légumineuses et dérivés,Produits à tartiner,Pâtes à tartiner végétales,Purées d'oléagineux,Beurres de légumineuses,Beurres de cacahuètes",,openfoodfacts
+Flocons d'avoine,Bjorg,"Plant-based foods and beverages,Plant-based foods,Breakfasts,Cereals and potatoes,Cereals and their products,Breakfast cereals,Flakes,Cereal flakes,Rolled flakes,Rolled oats",,openfoodfacts
+Be Nuts ! - Pâte à tartiner Cacahuète,Andros,"Petit-déjeuners,Produits à tartiner,Produits à tartiner sucrés,Pâtes à tartiner,Beurres de cacahuètes",,openfoodfacts
+Nutella,"Ferrero, Nutella","en:breakfasts, en:spreads, en:sweet-spreads, fr:pates-a-tartiner, en:hazelnut-spreads, en:chocolate-spreads, en:cocoa-and-hazelnuts-spreads, en:confectionary-based-spreads",,openfoodfacts
+KÉFIR,Reina,"Dairies,Milks (liquid and powder),Milks",,openfoodfacts
+Biscuit raisins,Gerblé,"Snacks,Sweet snacks,Biscuits and cakes,Biscuits and crackers,Biscuits,Shortbread cookies,Fruit biscuits,Shortbread biscuit with fruits",,openfoodfacts
+le blanc nature 900g araai,le berger,"Dairies, Fermented foods, Fermented milk products, Cheeses, fr:fromages-blancs",,openfoodfacts
+Henry’s,Henry's,"Snacks,Snacks sucrés,Biscuits et gâteaux,Biscuits",,openfoodfacts
+"Muesli Raisin, Figue, Abricot",Bjorg,"Aliments et boissons à base de végétaux,Aliments d'origine végétale,Petit-déjeuners,Céréales et pommes de terre,Céréales et dérivés,Céréales pour petit-déjeuner,Céréales aux fruits,Mueslis,Mueslis aux fruits",,openfoodfacts
+NESTLE CHOCAPIC Céréales 375g,"Nestlé, Chocapic","Aliments et boissons à base de végétaux,Aliments d'origine végétale,Petit-déjeuners,Céréales et pommes de terre,Céréales et dérivés,Céréales pour petit-déjeuner,Céréales au chocolat,Céréales pour petit déjeuner enrichies en vitamines et minéraux,Céréales extrudées,Pétales de blé chocolatés,Céréales chocolatées pour petit déjeuner non fourrées mais enrichies en vitamines et minéraux,Céréales pour petit déjeuner riches en fibres",,openfoodfacts
+Nutella Plant-Based,"Ferrero,Nutella","Frühstücke,Brotaufstriche,Süße Brotaufstriche,fr:Pâtes à tartiner,Haselnusscremes,Nougatcremes,Schoko- und Haselnussaufstriche",,openfoodfacts
+Amandes décortiquées,Alesto,"Plant-based foods and beverages, Plant-based foods, Nuts and their products, Nuts, en:almonds",,openfoodfacts
+Tuc Original,"Tuc,LU,Mondelēz","Snack,Snacks salati,Antipasti,en:Biscuits and crackers,Crackers",,openfoodfacts
+Шоколад 85% какаова маса,J. D. GROSS,"Snacks,Sweet snacks,Cocoa and its products,Chocolates,Dark chocolates",,openfoodfacts
+Special Muesli 30% fruits & noix,Jordans,"Aliments et boissons à base de végétaux,Aliments d'origine végétale,Petit-déjeuners,Céréales et pommes de terre,Céréales et dérivés,Céréales pour petit-déjeuner,Céréales aux fruits,Mueslis,Mueslis aux fruits",,openfoodfacts
+Mayonnaise recette originale,Star,"Condiments,Matières grasses,Sauces,Mayonnaises,en:groceries",,openfoodfacts
+Maille Moutarde Fine de Dijon L'Originale Bocal 360g,Maille,"Condiments, Sauces, Moutardes, Moutardes de Dijon",,openfoodfacts
