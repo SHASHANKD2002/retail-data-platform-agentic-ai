@@ -1,0 +1,42 @@
+This file lists all Python libraries your project needs.
+
+Example:
+
+pandas
+numpy
+requests
+psycopg2
+boto3
+streamlit
+langchain
+openai
+Why we use it
+
+When someone downloads your project, they can install all dependencies with one command:
+
+pip install -r requirements.txt
+
+Instead of installing libraries one by one.
+
+Example in your retail project
+
+Your requirements.txt might look like:
+
+pandas
+requests
+psycopg2-binary
+boto3
+sqlalchemy
+streamlit
+langchain
+openai
+
+Libraries used for:
+
+Library	Purpose
+pandas	data processing
+requests	API calls
+psycopg2	PostgreSQL connection
+boto3	AWS S3 connection
+streamlit	dashboard
+langchain	AI agents

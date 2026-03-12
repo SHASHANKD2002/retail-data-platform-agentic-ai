@@ -1,0 +1,13 @@
+postgres:
+  host: localhost
+  port: 5432
+  database: retail_db
+  user: postgres
+  password: password
+
+aws:
+  bucket_name: retail-transaction-data
+  region: ap-south-1
+
+api:
+  product_api: https://fakestoreapi.com/products
